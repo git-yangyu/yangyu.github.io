@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yu Yang / Site Title"
 title_separator          : "-"
-name                     : &name "Yu Yang"
+name                     : &name "Yu Yang(YangYu)"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Yang"
+  name             : "Yu Yang(YangYu)"
   avatar           : "profile.png"
   bio              : "Harbin University of Science and Technology, School of Computer Science and Technology, PhD student： Yu Yang"
   location         : "Harbin"
